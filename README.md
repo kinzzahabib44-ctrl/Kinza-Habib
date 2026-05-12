@@ -1,49 +1,71 @@
-<div class="hero-text">
-  <h1 align="center"> Sup Nerds.. I'm Eqra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-  <p align="center"> A Flutter Developer </p>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/eqrakhattak/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/eqrakhattak7"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://dev.to/eqrakhattak"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://www.facebook.com/eqrakhattak"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://medium.com/@eqrakhattak"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
-<!--     <a href="https://stackoverflow.com/users/12032187/icynerd"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/stackoverflow.png?raw=true"></a>&nbsp;&nbsp; -->
-  </p>
+<div align="center">
+
+# Hey there, I'm Kinza Habib 👩‍💻✨
+
+### AI Engineer | Software Engineer | UI/UX Designer
+
+<a href="https://https://www.linkedin.com/in/kinza-habib-ai/">
+  <img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true">
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/kinzzahabib">
+  <img height="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+</a>&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/youto_kinza/">
+  <img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true">
+</a>&nbsp;&nbsp;
+
+<a href="https://www.behance.net/kinzahabib">
+  <img height="30" src="https://cdn-icons-png.flaticon.com/512/733/733609.png">
+</a>
+
 </div>
-<br>
 
+---
 
-My name is Eqra Khattak. I am a programmer, an artist, book lover, seasons binge watcher and a damn nerd. I'm a software engineer with a passion for building beautiful user experiences and solving challenging problems. I've been a [Google Developer Student Club](https://gdsc.community.dev/comsats-university-attock-campus/) Lead at my campus for batch 2020-21 and a GDSC Mentor after that. I've also been a part of [GDG Kolachi](https://gdg.community.dev/gdg-kolachi/). I'm a supporter of Women In Tech, Black Lives Matter, people of color, people with disabilities, and other marginalized groups. I am a change maker volunteering for [We Make Change](https://www.wemakechange.org).
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" 
+    width="400"/>
+</p>
 
-<!-- <details>
-  <summary>Quotes about me that people who I have worked with have said about me...</summary>
+# 👩‍💻 About Me
 
-  > her perspective has been critical to our success and that of our clients. A consummate professional, she is crushingly competent   
-  &mdash; President
+Hi, I'm **Kinza Habib**, an AI Engineer and Software Engineer passionate about building intelligent systems, modern user experiences, and solving real-world problems using Artificial Intelligence.
 
-  > You are the totality of what everyone else is trying to be and do. You're the goal, not the person striving to achieve it.   
-  &mdash; CEO 
-  
-</details> -->
+Currently pursuing **MS in Artificial Intelligence from UET Taxila** while actively working on AI-powered applications, Retrieval-Augmented Generation (RAG) systems, LLM-based solutions, and modern frontend experiences.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+I enjoy transforming ideas into scalable AI solutions and creating user-focused digital products with clean design and smart functionality ✨
 
-- 🎓  I studied Software Engineering 
-- 🔭  I work at [Techtronix Corp.](https://www.techtronixcorp.com), developing apps
-- ⚙️  I code in Dart
-- 🌱  Currently Flutter-ing <!-- - 📈  I'm Core Team Member at GDG Kolachi. --><!-- - 🗣   Usually, I anchor most of the events at campus -->
-- 🎨  I make art
-- ☕️  Coffee and coding goes side by side for me
-- 🐶  Dog named Maximus
-- ❤️  In love with Open Source<!-- - ⚡  Fun fact: Khushal Khan Khattak is my ancestor - 💬  Reach me at icynerd007@gmail.com -->
-- 🏳️‍🌈  Pronouns: She / Her / They
-- 📝  My [CV](https://www.canva.com/design/DAF0ugbXv7w/Ldd_faYdB6xy2Sl3jc88Cw/view?utm_content=DAF0ugbXv7w&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+---
 
-🥂 Cheers!
-<!--
-Listen to my playlist <3
+# 🎓 Education
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0Lg3GfMqCQGbCGAv0oQnpW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
--->
+- 🎓 **MS Artificial Intelligence** — University of Engineering & Technology (UET), Taxila
+- 💻 **BS Software Engineering** — COMSATS University Islamabad
 
-now change in this code
+---
+
+# 🚀 What I Do
+
+- 🤖 AI Engineer focused on LLMs, RAG & NLP
+- 💻 Software Engineer & Frontend Developer
+- 🎨 UI/UX Designer with creative problem-solving skills
+- 📱 Building responsive and intelligent applications
+- 🧠 Exploring AI Agents & Prompt Engineering
+- 🌱 Currently learning advanced AI & Generative AI systems
+- ☕ Coffee + Coding = Perfect Combo
+- 🎥 Love content creation & creative storytelling
+- ❤️ Open Source Enthusiast
+
+---
+
+# 🛠️ Tech Stack
+
+```yaml
+Languages:     Python, Dart, JavaScript, C++, SQL
+Frameworks:    Flutter, React, LangChain
+AI/ML:         PyTorch, TensorFlow, NLP, RAG, LLMs
+Tools:         Pinecone, Weaviate, GitHub, Firebase, VS Code
+Design:        Figma, Adobe XD, Wireframing, Prototyping
