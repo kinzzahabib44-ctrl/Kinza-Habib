@@ -17,7 +17,7 @@
 </a>&nbsp;&nbsp;
 
 <a href="https://www.behance.net/kinzahabib">
-  <img height="30" src="https://cdn-icons-png.flaticon.com/512/733/733609.png">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg">
 </a>
 
 </div>
